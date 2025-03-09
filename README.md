@@ -12,7 +12,7 @@ This Anki add-on allows you to efficiently create multiple subtags at the same t
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/CrudeArc/Bulk-Subtags) page.
+1. Download the latest release from the [Releases](https://github.com/CrudeArc/Bulk-Subtags/releases/tag/Bulk_Subtags) page.
 2. Extract the file
 3. Paste it in the Anki2/addons21/ directory (should be something like /home/user/.local/share/Anki2/addons21/ if you're on linux) alongside the other addons
 4. If it went well, in anki Tools > addons you should see the addon appear
